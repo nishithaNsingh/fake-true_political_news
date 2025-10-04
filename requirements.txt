@@ -1,0 +1,21 @@
+# Core Dependencies
+pandas
+numpy
+
+# Machine Learning
+scikit-learn
+joblib
+
+# Natural Language Processing
+nltk
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Web Framework
+streamlit
+
+# Text Processing
+regex
